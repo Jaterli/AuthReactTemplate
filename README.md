@@ -1,7 +1,3 @@
-Aquí tienes un ejemplo de un archivo `README.md` para un repositorio que contiene el código mínimo de un sistema de autenticación de usuarios en una aplicación de React:
-
----
-
 # Sistema de Autenticación de Usuarios en React
 
 Este repositorio contiene el código mínimo necesario para implementar un sistema de autenticación de usuarios en una aplicación desarrollada con React. El sistema incluye:
