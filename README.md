@@ -26,7 +26,7 @@ Clona el repositorio en tu máquina local usando el siguiente comando:
 
 ```bash
 git clone [https://github.com/tu-usuario/react-auth-system.git](https://github.com/Jaterli/AuthReactTemplate.git)
-cd AuthReactTemplate
+cd react-auth-system
 ```
 
 ### 2. Instalar dependencias
